@@ -85,6 +85,6 @@
 
 ## Contact
 - 📧 Email: ferdaousbo12@gmail.com
-- 🔗 LinkedIn: [Ferdaouss Bouchennou](www.linkedin.com/in/ferdaouss-bouchennou-917b6b24b)
+- 🔗 LinkedIn: [Ferdaouss Bouchennou](https://www.linkedin.com/in/ferdaouss-bouchennou-917b6b24b/)
 - 📍 Location: Tetouan, Maroc
 - 🎓 Education: École Nationale des Sciences Appliquées, Tétouan
