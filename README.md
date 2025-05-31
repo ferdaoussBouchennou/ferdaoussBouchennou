@@ -75,7 +75,7 @@
 ## Popular repositories
 - [java-shooter-game](https://github.com/ferdaoussBouchennou/java-shooter-game.git)  
   Java shooter game( mono et multiplayer) project. 
-- [API-Java](https://github.com/tafraouti-sanae01/API-Java.git)  
+- [API-Java](https://github.com/ferdaoussBouchennou/API_BD.git)  
   Java API DataBases project.
 
 ## 🏆 GitHub Trophies
