@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Étudiante+en+Génie+Informatique;Passionnée+par+le+développement;Exploratrice+des+technologies+émergentes;En+quête+d'innovation+technologique)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00REFG&center=true&vCenter=true&width=600&lines=Étudiante+en+Génie+Informatique;Passionnée+par+le+développement;Exploratrice+des+technologies+émergentes;En+quête+d'innovation+technologique)
 
 </div>
 
