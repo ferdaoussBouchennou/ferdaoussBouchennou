@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Étudiante+en+Génie+Informatique;Passionnée+par+le+développement;Exploratrice+des+technologies+émergentes;Future+experte+en+QA+%26+Testing)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Étudiante+en+Génie+Informatique;Passionnée+par+le+développement;Exploratrice+des+technologies+émergentes;En+quête+d'innovation+technologique)
 
 </div>
 
@@ -10,7 +10,7 @@
 
 🎓 **Étudiante en Génie Informatique** - 1ère année à l'ENSA Tétouan  
 💻 **Développeuse en herbe** avec une passion pour l'innovation technologique  
-🔍 **Spécialisation future** : Software Testing & Quality Assurance  
+🔍 **Intérêt émergent** : Software Testing & Quality Assurance  
 🌟 **Mission** : Transformer des idées en solutions logicielles robustes  
 
 ---
