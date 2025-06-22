@@ -51,9 +51,6 @@
   <img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=ferdaoussBouchennou&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 </div>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ferdaoussBouchennou&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
-</div>
 
 ---
 
