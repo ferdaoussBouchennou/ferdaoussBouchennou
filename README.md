@@ -97,16 +97,6 @@
 
 ---
 
-## 🎯 Objectifs 2025
-
-- [ ] 🔍 Approfondir mes connaissances en Software Testing
-- [ ] 🚀 Contribuer à des projets open source
-- [ ] 📚 Maîtriser les frameworks de test automatisé
-- [ ] 🌐 Développer des applications web full-stack
-- [ ] 🏆 Obtenir des certifications en QA
-
----
-
 ## 📫 Me Contacter
 
 <div align="center">
