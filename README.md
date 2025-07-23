@@ -10,7 +10,6 @@
 
 🎓 **Étudiante en Génie Informatique** - 1ère année à l'ENSA Tétouan  
 💻 **Développeuse en herbe** avec une passion pour l'innovation technologique  
-🔍 **Intérêt émergent** : Software Testing & Quality Assurance  
 🌟 **Mission** : Transformer des idées en solutions logicielles robustes  
 
 ---
