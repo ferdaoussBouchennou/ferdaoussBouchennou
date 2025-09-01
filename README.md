@@ -171,21 +171,17 @@ const ferdaouss = {
 
 ### 💼 **Professional**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ferdaouss-bouchennou-917b6b24b/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](#)
-
 </td>
 <td align="center">
 
 ### 💻 **Development**
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ferdaoussBouchennou)
-[![Dev.to](https://img.shields.io/badge/Dev.to-Follow-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](#)
 
 </td>
 <td align="center">
 
 ### 📬 **Contact**
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ferdaousbo12@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Message-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](#)
 
 </td>
 </tr>
@@ -193,49 +189,15 @@ const ferdaouss = {
 
 ### 📍 **Quick Info**
 ```yaml
-Location: Tetouan, Morocco
 Timezone: GMT+1 (CET)
 Languages: Arabic (Native), French (Fluent), English (Professional)
 Availability: Open for internships, collaborations, and freelance projects
-Response Time: Usually within 24 hours
 ```
 
 </div>
 
 ---
 
-## 💡 Fun Facts & Interests
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-### 🎯 **Quick Facts**
-- 🌟 Started coding at age 16
-- 💻 Can code for 12+ hours straight (with coffee ☕)
-- 🎮 Love creating games in spare time  
-- 📚 Read 2-3 tech books per month
-- 🌍 Dream of working in Silicon Valley
-
-</td>
-<td width="50%" align="center">
-
-### 🏃‍♂️ **When Not Coding**
-- 🏋️‍♂️ Fitness enthusiast & gym regular
-- 📖 Tech blog reader & writer
-- 🎵 Music lover (coding playlists curator)
-- 🌱 Continuous learner & course taker
-- 👥 Tech community member & mentor
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
 
 <div align="center">
 
