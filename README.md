@@ -52,19 +52,7 @@ const ferdaouss = {
 - 📊 Performance Optimization
 
 </td>
-<td align="center" width="50%">
 
-### 🎯 **Academic Excellence**
-![GPA](https://img.shields.io/badge/Academic_Performance-Excellent-success?style=for-the-badge&logo=graduation-cap)
-
-**ENSA Tetouan - Computer Engineering**  
-*Specialized in:*
-- 💻 Software Engineering
-- 🌐 Web Technologies
-- 📱 Mobile Development
-- 🤖 Artificial Intelligence
-
-</td>
 </tr>
 </table>
 
