@@ -76,17 +76,17 @@ const ferdaouss = {
 
 ### ⚙️ **Backend & Frameworks**
 <p>
-  <img src="https://skillicons.dev/icons?i=laravel,nodejs,express,spring" />
+  <img src="https://skillicons.dev/icons?i=laravel" />
 </p>
 
 ### 🗄️ **Databases & Storage**
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
 </p>
 
 ### ☁️ **Cloud & DevOps**
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,oracle" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,gcp,oracle" />
 </p>
 
 ### 🔧 **Tools & Platforms**
