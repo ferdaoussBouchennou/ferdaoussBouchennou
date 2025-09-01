@@ -86,7 +86,7 @@ const ferdaouss = {
 
 ### ☁️ **Cloud & DevOps**
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,gcp,oracle" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,gcp" />
 </p>
 
 ### 🔧 **Tools & Platforms**
