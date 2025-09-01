@@ -71,7 +71,7 @@ const ferdaouss = {
 
 ### 🎨 **Frontend Development**
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,vue,sass" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap" />
 </p>
 
 ### ⚙️ **Backend & Frameworks**
