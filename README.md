@@ -15,11 +15,9 @@
 ```typescript
 const ferdaouss = {
     name: "Ferdaouss Bouchennou",
-    title: "Full-Stack Developer & Cloud Computing Enthusiast",
-    location: "Tetouan, Morocco",
     education: "Computer Engineering @ ENSA Tetouan",
     certifications: ["Oracle Multicloud Professional"],
-    currentFocus: ["Laravel Development", "Cloud Architecture", "React Ecosystem"],
+    currentFocus: ["Laravel Development", "Cloud Architecture"],
     lifePhilosophy: "Code with passion, learn with purpose, build with impact",
     funFact: "I debug code faster than I debug my life decisions 😄"
 };
