@@ -151,79 +151,11 @@ const ferdaouss = {
 ---
 
 
-
-
----
-
 ## 📈 Development Activity
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ferdaoussBouchennou&custom_title=Ferdaouss's%20Development%20Journey&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=1f2937&title_color=00D9FF&area=true" />
-
-</div>
-
----
-
-## 🎯 2024-2025 Roadmap
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-### Q4 2024 🎯
-- [ ] Complete Advanced Laravel Projects
-- [ ] Master React & Redux
-- [ ] AWS Solutions Architect Cert
-- [ ] Open Source Contributions
-
-</td>
-<td align="center" width="25%">
-
-### Q1 2025 🚀
-- [ ] Full-Stack E-Commerce Platform
-- [ ] Kubernetes Orchestration
-- [ ] Technical Blog Launch
-- [ ] Internship Applications
-
-</td>
-<td align="center" width="25%">
-
-### Q2 2025 ⭐
-- [ ] Machine Learning Integration
-- [ ] Mobile App Development
-- [ ] Speaking at Tech Events
-- [ ] Startup Project Launch
-
-</td>
-<td align="center" width="25%">
-
-### Q3 2025 🎓
-- [ ] Industry Internship
-- [ ] Advanced AI Certification
-- [ ] Mentorship Program
-- [ ] Global Hackathon Participation
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 🏆 Achievements & Recognition
-
-<div align="center">
-
-| 🏅 **Achievement** | 📅 **Year** | 🎯 **Category** | ⭐ **Impact** |
-|-------------------|-------------|-----------------|---------------|
-| Oracle Multicloud Professional | 2024 | Certification | Cloud Architecture Expertise |
-| Dean's List | 2024 | Academic | Top 5% Performance |
-| Open Source Contributor | 2024 | Community | 50+ Contributions |
-| Hackathon Participant | 2024 | Competition | Innovation & Problem Solving |
 
 </div>
 
