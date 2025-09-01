@@ -66,7 +66,7 @@ const ferdaouss = {
 
 ### 💻 **Programming Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=c,java,javascript,php,python,typescript" />
+  <img src="https://skillicons.dev/icons?i=c,java,javascript,php" />
 </p>
 
 ### 🎨 **Frontend Development**
