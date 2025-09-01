@@ -134,7 +134,7 @@ const ferdaouss = {
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" width="50" height="50" />
 
-**Tech Stack:** Java, Swing, AWT  
+**Tech Stack:** Java, JavaFX 
 **Features:**
 - 🎯 Single & Multiplayer modes
 - 🎨 Custom sprite animations  
