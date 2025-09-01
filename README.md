@@ -21,16 +21,6 @@ const ferdaouss = {
     lifePhilosophy: "Code with passion, learn with purpose, build with impact",
     funFact: "I debug code faster than I debug my life decisions 😄"
 };
-```
-
-<div align="center">
-
-![Age](https://img.shields.io/badge/Age-20-blue?style=flat-square&logo=calendar)
-![Focus](https://img.shields.io/badge/Focus-Full--Stack%20Development-brightgreen?style=flat-square&logo=code)
-![Learning](https://img.shields.io/badge/Learning-Cloud%20Architecture-orange?style=flat-square&logo=cloud)
-![Passion](https://img.shields.io/badge/Passion-Innovation-red?style=flat-square&logo=rocket)
-
-</div>
 
 ---
 
