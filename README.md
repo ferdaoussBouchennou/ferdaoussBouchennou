@@ -2,9 +2,9 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Computer+Engineering+Student;💻+Full-Stack+Developer+%7C+Cloud+Enthusiast;☁️+Oracle+Certified+Multicloud+Professional;🌟+Building+the+Future%2C+One+Line+at+a+Time)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=800&color=FF69B4&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Computer+Engineering+Student;💻+Full-Stack+Developer+%7C+Cloud+Enthusiast;☁️+Oracle+Certified+Multicloud+Professional;🌟+Building+the+Future%2C+One+Line+at+a+Time)
 
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" alt="Developer" width="100" height="100" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Medium%20Skin%20Tone.png" alt="Developer" width="100" height="100" />
   
 </div>
 
@@ -102,10 +102,10 @@ const ferdaouss = {
 
 <div align="center">
 
-<img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ferdaoussBouchennou&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" />
-<img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ferdaoussBouchennou&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" />
+<img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ferdaoussBouchennou&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=FF69B4&text_color=C9D1D9" />
+<img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ferdaoussBouchennou&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF69B4&text_color=C9D1D9" />
 
-<img width="820" src="https://github-readme-streak-stats.herokuapp.com/?user=ferdaoussBouchennou&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" />
+<img width="820" src="https://github-readme-streak-stats.herokuapp.com/?user=ferdaoussBouchennou&theme=tokyonight&hide_border=true&background=0D1117&stroke=FF69B4&ring=FF69B4&fire=FF6B6B&currStreakLabel=FF69B4" />
 
 </div>
 
@@ -155,7 +155,7 @@ const ferdaouss = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ferdaoussBouchennou&custom_title=Ferdaouss's%20Development%20Journey&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=1f2937&title_color=00D9FF&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ferdaoussBouchennou&custom_title=Ferdaouss's%20Development%20Journey&bg_color=0D1117&color=FF69B4&line=FF69B4&point=FFFFFF&area_color=1f2937&title_color=FF69B4&area=true" />
 
 </div>
 
@@ -201,7 +201,7 @@ Availability: Open for internships, collaborations, and freelance projects
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=ferdaoussBouchennou&color=00D9FF&style=for-the-badge&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=ferdaoussBouchennou&color=FF69B4&style=for-the-badge&label=Profile+Views)
 ![Followers](https://img.shields.io/github/followers/ferdaoussBouchennou?style=for-the-badge&color=FF6B6B&labelColor=1f2937&label=Followers)
 ![Stars](https://img.shields.io/github/stars/ferdaoussBouchennou?style=for-the-badge&color=FFD700&labelColor=1f2937&label=Total+Stars)
 
