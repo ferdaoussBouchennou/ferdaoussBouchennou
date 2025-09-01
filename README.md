@@ -14,9 +14,9 @@
 
 <div align="center">
 
-| 🎯 **Role** | 🏫 **Institution** | 📍 **Location** | 💼 **Status** |
+| 🎯 **Role** | 🏫 **Institution** | 💼 **Status** |
 |-------------|-------------------|-----------------|----------------|
-| Computer Engineering Student | ENSA Tetouan | Tetouan, Morocco | Open for Opportunities |
+| Computer Engineering Student | ENSA Tetouan | Open for Opportunities |
 
 </div>
 
