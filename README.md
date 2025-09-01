@@ -134,19 +134,6 @@ const ferdaouss = {
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" width="50" height="50" />
 
-**Tech Stack:** Java, JavaFX 
-**Features:**
-- 🎯 Single & Multiplayer modes
-- 🎨 Custom sprite animations  
-- 🎵 Dynamic sound effects
-- 🏆 Scoring system & leaderboards
-- 🎮 Smooth gameplay mechanics
-
-**Key Achievements:**
-- Object-oriented design patterns
-- Real-time collision detection
-- Memory-efficient rendering
-
 </td>
 <td width="50%">
 
@@ -155,64 +142,11 @@ const ferdaouss = {
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="50" height="50" />
 
-**Tech Stack:** Java, Spring Boot, MySQL  
-**Features:**
-- 🔐 JWT Authentication & Authorization
-- 📊 RESTful API with OpenAPI docs
-- 🛡️ Data encryption & validation
-- ⚡ Redis caching layer
-- 📈 Performance monitoring
-
-**Key Achievements:**
-- 99.9% uptime reliability
-- Sub-200ms response times
-- Scalable microservices architecture
-
 </td>
 </tr>
 <tr>
-<td width="50%">
 
-### 🌐 **Modern E-Commerce Platform**
-[![Repo](https://img.shields.io/badge/Repository-Coming%20Soon-orange?style=for-the-badge&logo=github)](#)
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shopping%20Cart.png" width="50" height="50" />
-
-**Tech Stack:** Laravel, React, Tailwind CSS  
-**Features:**
-- 💳 Integrated payment processing
-- 📱 Progressive Web App (PWA)
-- 🎨 Modern UI/UX with Tailwind
-- 🔍 Advanced search & filtering
-- 📊 Admin analytics dashboard
-
-**Key Achievements:**
-- Mobile-first responsive design
-- SEO-optimized architecture
-- Cloud-ready deployment
-
-</td>
-<td width="50%">
-
-### ☁️ **Cloud Infrastructure Manager**
-[![Repo](https://img.shields.io/badge/Repository-Private%20Project-red?style=for-the-badge&logo=github)](#)
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud.png" width="50" height="50" />
-
-**Tech Stack:** Oracle Cloud, Docker, Kubernetes  
-**Features:**
-- 🚀 Multi-cloud deployment automation
-- 📈 Auto-scaling configurations
-- 🛡️ Security compliance monitoring
-- 💰 Cost optimization algorithms
-- 📊 Real-time infrastructure monitoring
-
-**Key Achievements:**
-- 40% cost reduction implementation
-- Zero-downtime deployment pipeline
-- Multi-region disaster recovery
-
-</td>
 </tr>
 </table>
 
