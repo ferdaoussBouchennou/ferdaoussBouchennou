@@ -86,12 +86,12 @@ const ferdaouss = {
 
 ### ☁️ **Cloud & DevOps**
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,gcp,oci" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,gcp,oracle" />
 </p>
 
 ### 🔧 **Tools & Platforms**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 </p>
 
 </div>
