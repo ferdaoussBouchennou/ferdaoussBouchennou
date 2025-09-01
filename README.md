@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🚀+Computer+Engineering+Student;💻+Full-Stack+Developer+%7C+Cloud+Enthusiast;☁️+Oracle+Certified+Multicloud+Professional;🌟+Building+the+Future%2C+One+Line+at+a+Time)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Computer+Engineering+Student;💻+Full-Stack+Developer+%7C+Cloud+Enthusiast;☁️+Oracle+Certified+Multicloud+Professional;🌟+Building+the+Future%2C+One+Line+at+a+Time)
 
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" alt="Developer" width="100" height="100" />
   
