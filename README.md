@@ -132,15 +132,11 @@ const ferdaouss = {
 ### 🎮 **Java Shooter Game**
 [![Repo](https://img.shields.io/badge/Repository-View%20Code-blue?style=for-the-badge&logo=github)](https://github.com/ferdaoussBouchennou/java-shooter-game)
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" width="50" height="50" />
-
 </td>
 <td width="50%">
 
 ### 🔗 **Enterprise API System**
 [![Repo](https://img.shields.io/badge/Repository-View%20Code-green?style=for-the-badge&logo=github)](https://github.com/ferdaoussBouchennou/API_BD)
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="50" height="50" />
 
 </td>
 </tr>
