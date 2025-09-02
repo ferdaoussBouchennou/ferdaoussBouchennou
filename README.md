@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&customColorList=12&height=200&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35" width="100%"/>
   
   ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Computer+Engineering+Student+🎓;Full-Stack+Developer+%7C+Cloud+Architect+💻;Oracle+Certified+Multicloud+Professional+☁️;Passionate+about+Innovation+%26+Technology+🚀)
 
