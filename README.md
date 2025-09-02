@@ -244,14 +244,12 @@ console.log(`Welcome to ${ferdaouss.name}'s GitHub Profile! 🚀`);
 <div align="center">
 
 ```yaml
-🌍 Location: Tétouan, Morocco
 ⏰ Timezone: GMT+1 (CET)
 🗣️ Languages: 
   - Arabic: Native
   - French: Fluent
   - English: Professional
 💼 Status: Open for internships & collaborations
-🎯 Focus: Full-Stack Development & Cloud Architecture
 ```
 
 </div>
