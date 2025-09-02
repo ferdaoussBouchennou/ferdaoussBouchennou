@@ -317,7 +317,7 @@ console.log(`Welcome to ${ferdaouss.name}'s GitHub Profile! 🚀`);
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=150&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&customColorList=12&height=150&section=footer&animation=fadeIn" width="100%"/>
 
 ### 🌟 *"Innovation distinguishes between a leader and a follower."*
 ### 💫 **Ready to create something extraordinary? Let's collaborate!**
