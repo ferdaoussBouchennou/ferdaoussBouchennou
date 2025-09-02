@@ -141,10 +141,10 @@ console.log(`Welcome to ${ferdaouss.name}'s GitHub Profile! 🚀`);
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ferdaoussBouchennou&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&ring_color=00d9ff" />
-<img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ferdaoussBouchennou&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ferdaoussBouchennou&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=FF69B4&icon_color=FF69B4&text_color=c9d1d9&ring_color=FF69B4" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferdaoussBouchennou&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF69B4&text_color=c9d1d9" />
 
-<img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=ferdaoussBouchennou&theme=radical&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff" />
+<img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=ferdaoussBouchennou&theme=radical&hide_border=true&background=0d1117&stroke=FF69B4&ring=FF69B4&fire=ff6b6b&currStreakLabel=FF69B4" />
 
 </div>
 
@@ -191,7 +191,7 @@ console.log(`Welcome to ${ferdaouss.name}'s GitHub Profile! 🚀`);
 🎯 UI/UX Design  
 🎯 Performance Optimization
 
-[![Repo](https://img.shields.io/badge/🔗_View_Repository-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ferdaoussBouchennou/java-shooter-game)
+[![Repo](https://img.shields.io/badge/🔗_View_Repository-FF69B4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ferdaoussBouchennou/java-shooter-game)
 
 </td>
 <td width="50%" align="center">
@@ -227,7 +227,7 @@ console.log(`Welcome to ${ferdaouss.name}'s GitHub Profile! 🚀`);
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ferdaoussBouchennou&custom_title=Ferdaouss's%20Coding%20Journey%20%F0%9F%9A%80&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area_color=1f2937&title_color=00d9ff&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ferdaoussBouchennou&custom_title=Ferdaouss's%20Coding%20Journey%20%F0%9F%9A%80&bg_color=0d1117&color=FF69B4&line=FF69B4&point=ffffff&area_color=1f2937&title_color=FF69B4&area=true" />
 
 </div>
 
@@ -311,7 +311,7 @@ console.log(`Welcome to ${ferdaouss.name}'s GitHub Profile! 🚀`);
 
 ## 📊 Profile Statistics
 
-![Profile Views](https://komarev.com/ghpvc/?username=ferdaoussBouchennou&color=00D9FF&style=for-the-badge&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=ferdaoussBouchennou&color=FF69B4&style=for-the-badge&label=Profile+Views)
 ![Followers](https://img.shields.io/github/followers/ferdaoussBouchennou?style=for-the-badge&color=FF6B6B&labelColor=0d1117&label=Followers)
 ![Stars](https://img.shields.io/github/stars/ferdaoussBouchennou?style=for-the-badge&color=FFD700&labelColor=0d1117&label=Total+Stars)
 
