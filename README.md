@@ -4,7 +4,7 @@
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35" width="100%"/>
   
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Computer+Engineering+Student+🎓;Full-Stack+Developer+%7C+Cloud+Architect+💻;Oracle+Certified+Multicloud+Professional+☁️;Passionate+about+Innovation+%26+Technology+🚀)
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Computer+Engineering+Student+🎓;Full-Stack+Developer+%7C+Cloud+Architect+💻;Oracle+Certified+Multicloud+Professional+☁️;Passionate+about+Innovation+%26+Technology+🚀)
 
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Medium%20Skin%20Tone.png" alt="Developer" width="120" height="120" />
   
