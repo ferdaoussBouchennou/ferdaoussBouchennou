@@ -168,57 +168,6 @@ console.log(`Welcome to ${ferdaouss.name}'s GitHub Profile! 🚀`);
 
 <div align="center">
 
-## 🚀 Featured Projects Portfolio
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-</div>
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-### 🎮 **Java Shooter Game**
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" width="80" height="80" />
-
-**Object-Oriented Game Development**
-
-🎯 Advanced Java Programming  
-🎯 Game Physics & Logic  
-🎯 UI/UX Design  
-🎯 Performance Optimization
-
-[![Repo](https://img.shields.io/badge/🔗_View_Repository-FF69B4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ferdaoussBouchennou/java-shooter-game)
-
-</td>
-<td width="50%" align="center">
-
-### 🔗 **Enterprise API System**
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="80" height="80" />
-
-**Scalable Backend Architecture**
-
-⚡ RESTful API Design  
-⚡ Database Integration  
-⚡ Security Implementation  
-⚡ Performance Monitoring
-
-[![Repo](https://img.shields.io/badge/🔗_View_Repository-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ferdaoussBouchennou/API_BD)
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
 ## 📈 Development Activity Timeline
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
