@@ -1,4 +1,4 @@
-# 🌟 Ferdaouss Bouchennou
+#  Ferdaouss Bouchennou
 
 <div align="center">
   
