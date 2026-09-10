@@ -28,7 +28,7 @@ Currently looking for a **PFE internship in QA or Backend Development**, startin
 <div align="center">
 
 <img src="https://img.shields.io/badge/Location-Tetouan,_Morocco-FF69B4?style=flat-square" />
-<img src="https://img.shields.io/badge/Focus-QA_%7C_Automation_%7C_DevOps-FF1493?style=flat-square" />
+<img src="https://img.shields.io/badge/Focus-QA_%7C_Automation_%7C_Backend-FF1493?style=flat-square" />
 <img src="https://img.shields.io/badge/Status-Open_to_Internships-2EAD33?style=flat-square" />
 <img src="https://img.shields.io/badge/Languages-AR_%7C_FR_%7C_EN-0052CC?style=flat-square" />
 
