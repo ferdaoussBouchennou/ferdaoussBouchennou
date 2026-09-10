@@ -1,280 +1,171 @@
-#  Ferdaouss Bouchennou
-
-<div align="center">
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&customColorList=12&height=200&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35" width="100%"/>
-  
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Software+Engineering+Student+🎓;Full-Stack+Developer;QA+and+DevOps+Enthusiast)
-
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Medium%20Skin%20Tone.png" alt="Developer" width="120" height="120" />
-  
-  <br><br>
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ferdaouss-bouchennou-917b6b24b/)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ferdaousbo12@gmail.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ferdaoussBouchennou)
-  
-</div>
-
----
-
 <div align="center">
 
-## 🎯 About Me
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D0E1F,100:A5253E&height=220&section=header&text=Ferdaouss%20Bouchennou&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=QA%20%26%20Test%20Automation%20Engineer&descAlignY=58&descSize=20" width="100%"/>
+
+<a href="https://bouchennou-ferdaouss.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-A5253E?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/ferdaouss-bouchennou-917b6b24b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:ferdaousbo12@gmail.com"><img src="https://img.shields.io/badge/Email-A5253E?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A5253E&center=true&vCenter=true&width=650&lines=5th-Year+Computer+Engineering+Student+%40+ENSA+T%C3%A9touan;QA+%26+Test+Automation+%7C+Playwright+%2F+Selenium;Oracle+%7C+AWS+%7C+Cisco+Certified;Seeking+a+PFE+Internship+in+QA+%E2%80%94+Feb+2027" />
 
 </div>
 
-```typescript
-interface Developer {
-  name: string;
-  education: string;
-  certifications: string[];
-  expertise: string[];
-  currentFocus: string[];
-  lifePhilosophy: string;
-  funFact: string;
-}
+<br>
 
-const ferdaouss: Developer = {
-  name: "Ferdaouss Bouchennou",
-  education: "Computer Engineering @ ENSA Tetouan",
-  certifications: ["Oracle Multicloud Professional"],
-  expertise: ["Full-Stack Development", "Cloud Architecture", "System Design"],
-  currentFocus: ["Laravel Development", "Microservices", "DevOps"],
-  lifePhilosophy: "Code with passion, learn with purpose, build with impact",
-  funFact: "I debug code faster than I debug my life decisions 😄"
-};
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=A5253E&width=100%" />
 
-console.log(`Welcome to ${ferdaouss.name}'s GitHub Profile! 🚀`);
-```
-
----
-
-<div align="center">
-
-## 🏅 Certifications & Professional Achievements
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-</div>
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" style="border: none;">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" width="60" height="60" />
-
-### 🏆 Oracle Certified Professional
-
-![Oracle](https://img.shields.io/badge/Oracle_Multicloud_Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=FF4500)
-
-**Multicloud Architecture Expertise**
-
-✨ Cloud Architecture Design  
-✨ Multi-platform Integration  
-✨ Cloud Security Implementation  
-✨ Performance Optimization  
-✨ Enterprise Solutions
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-## 🛠️ Technology Stack & Skills
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-</div>
-
-<div align="center">
-
-### 💻 Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=c,java,javascript,php&theme=dark" />
-</p>
-
-### 🎨 Frontend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap&theme=dark" />
-</p>
-
-### ⚙️ Backend & Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=laravel&theme=dark" />
-  <img src="https://img.shields.io/badge/API_Development-00599C?style=for-the-badge&logo=fastapi&logoColor=white" />
-</p>
-
-### 🗄️ Databases & Storage
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql&theme=dark" />
-</p>
-
-### ☁️ Cloud & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,gcp&theme=dark" />
-  <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-</p>
-
-### 🔧 Development Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
-</p>
-
-</div>
-
----
-
-<div align="center">
-
-## 📊 GitHub Analytics & Performance
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-</div>
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ferdaoussBouchennou&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=FF69B4&icon_color=FF69B4&text_color=c9d1d9&ring_color=FF69B4" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferdaoussBouchennou&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF69B4&text_color=c9d1d9" />
-
-<img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=ferdaoussBouchennou&theme=radical&hide_border=true&background=0d1117&stroke=FF69B4&ring=FF69B4&fire=ff6b6b&currStreakLabel=FF69B4" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🏆 Achievement Gallery
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-</div>
-
-<div align="center">
-  
-<img src="https://github-profile-trophy.vercel.app/?username=ferdaoussBouchennou&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=6&title=Commits,Repositories,PullRequest,Issues,Stars,Followers" />
-
-</div>
-
----
-
-<div align="center">
-
-## 📈 Development Activity Timeline
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ferdaoussBouchennou&custom_title=Ferdaouss's%20Coding%20Journey%20%F0%9F%9A%80&bg_color=0d1117&color=FF69B4&line=FF69B4&point=ffffff&area_color=1f2937&title_color=FF69B4&area=true" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🌍 Professional Information
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-</div>
-
-<div align="center">
+## About Me
 
 ```yaml
-⏰ Timezone: GMT+1 (CET)
-🗣️ Languages: 
-  - Arabic: Native
-  - French: Fluent
-  - English: Professional
-💼 Status: Open for internships & collaborations
+name: "Ferdaouss Bouchennou"
+role: "QA & Test Automation Engineer"
+education: "ENSA Tétouan — Université Abdelmalek Essaâdi"
+focus: ["Test Automation", "DevOps", "Full Stack Development"]
+goal: "Become a Tech Lead QA"
+status: "🟢 Open to PFE Internship opportunities — starting February 2027"
+languages: ["Arabic 🇲🇦 (native)", "French 🇫🇷", "English 🇬🇧", "Spanish 🇪🇸"]
 ```
 
-</div>
+<br>
 
----
-
-<div align="center">
-
-## 💬 Let's Connect & Build Together!
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-</div>
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<table>
+**Testing & QA**
+
+<img src="https://skillicons.dev/icons?i=playwright,selenium,postman,jira" />
+<br><img src="https://img.shields.io/badge/TestNG-EE5A24?style=flat-square&logo=testng&logoColor=white" />
+<img src="https://img.shields.io/badge/Allure_Report-FF6B35?style=flat-square&logo=qameta&logoColor=white" />
+<img src="https://img.shields.io/badge/Xray-172B4D?style=flat-square&logo=jira&logoColor=white" />
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=java,python,c,cs,php" />
+
+**Frameworks & Web**
+
+<img src="https://skillicons.dev/icons?i=spring,react,dotnet,laravel,flutter,html,css,tailwind,bootstrap" />
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=mysql,oracle,mssql" />
+
+**Cloud & DevOps**
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,githubactions,kafka,git,github" />
+<br><img src="https://img.shields.io/badge/OCI-F80000?style=flat-square&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=A5253E&width=100%" />
+
+## 💼 Experience
+
+<table width="100%">
 <tr>
-<td align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="50" height="50" />
+<td width="100%">
 
-**Professional Network**
+### 🧪 QA & Test Automation Intern — <a href="https://www.portnet.ma">PortNet S.A.</a>
+<img src="https://img.shields.io/badge/July_2026_--_August_2026-A5253E?style=flat-square" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ferdaouss-bouchennou-917b6b24b/)
+National Single Window platform for foreign trade in Morocco. Designed and maintained **two parallel automated testing frameworks**:
 
-*Let's connect professionally*
-
-</td>
-<td align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="50" height="50" />
-
-**Code Repository**
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ferdaoussBouchennou)
-
-*Explore my projects*
+- 🎭 **Playwright / JavaScript** framework for the **CCM** module — 52 tests, Page Object Model, `storageState` multi-role sessions
+- ☕ **Selenium / Java / TestNG** framework for the **CITES** module — 43 tests, layered POM architecture
+- 📊 Automated reporting pipeline: **Allure**, **Word**, **Log4j2**
+- ⚡ Cut regression testing time from ~3h → 40min (CCM) and ~2h → 41–53min (CITES)
 
 </td>
-<td align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" width="50" height="50" />
+</tr>
+<tr>
+<td width="100%">
 
-**Direct Contact**
+### 💻 Full Stack Development Intern — Naja7Host
+<img src="https://img.shields.io/badge/July_2025_--_August_2025-A5253E?style=flat-square" />
 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ferdaousbo12@gmail.com)
+Designed & built **QA-ScenarioHub**, a test lifecycle management platform (projects, scenarios, campaigns, executions, bugs) with validation workflows and real-time tracking.
 
-*Get in touch directly*
+`Spring Boot` `MySQL` `JWT` `React/TypeScript` `Google Gemini AI`
 
 </td>
 </tr>
 </table>
 
-</div>
+<br>
 
----
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=A5253E&width=100%" />
+
+## 🏆 Certifications
 
 <div align="center">
 
-## 📊 Profile Statistics
-
-![Profile Views](https://komarev.com/ghpvc/?username=ferdaoussBouchennou&color=FF69B4&style=for-the-badge&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/ferdaoussBouchennou?style=for-the-badge&color=FF6B6B&labelColor=0d1117&label=Followers)
-![Stars](https://img.shields.io/github/stars/ferdaoussBouchennou?style=for-the-badge&color=FFD700&labelColor=0d1117&label=Total+Stars)
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&customColorList=12&height=150&section=footer&animation=fadeIn" width="100%"/>
-
-### 🌟 *"Innovation distinguishes between a leader and a follower."*
-### 💫 **Ready to create something extraordinary? Let's collaborate!**
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium%20Skin%20Tone.png" width="50" height="50" />
-
----
-
-<sub>⭐ **If you found my profile interesting, don't forget to star it!** ⭐</sub>
+<img src="https://img.shields.io/badge/Oracle_Certified_Professional-Java_SE_17_Developer-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/OCI-DevOps_Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/OCI-Multicloud_Architect-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 <br>
-<sub>💝 **Thank you for visiting my GitHub profile!** 💝</sub>
+<img src="https://img.shields.io/badge/AWS-Cloud_Computing-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Cisco-Python_Essentials_1-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/ISTQB-Foundation_Level_(in_progress)-lightgrey?style=for-the-badge" />
+
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=A5253E&width=100%" />
+
+## 🚀 Other Projects
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
+
+**🌐 Ecopria & SGITU**
+Academic microservices projects
+`Spring Boot` `Kafka` `Docker` `Kubernetes` `Istio`
+
+</td>
+<td width="33%" valign="top">
+
+**🔒 ChriOnline**
+E-commerce platform with strong security
+`AES-256` `RSA` `2FA` `Anti-bruteforce`
+
+</td>
+<td width="33%" valign="top">
+
+**☄️ Asteroid Hazard Classification**
+ML project using NASA's NeoWs API
+`scikit-learn` `pandas`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=A5253E&width=100%" />
+
+## 📊 GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Ferdaouss-Bouchennou&show_icons=true&theme=radical&hide_border=true&title_color=A5253E&icon_color=A5253E&text_color=ffffff&bg_color=0d1117" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ferdaouss-Bouchennou&theme=radical&hide_border=true&background=0d1117&ring=A5253E&fire=A5253E" width="48%" />
+</div>
+
+<blockquote align="center"><i>⚠️ Remplace <code>Ferdaouss-Bouchennou</code> ci-dessus par ton vrai pseudo GitHub si différent, sinon les cartes n'afficheront rien.</i></blockquote>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A5253E,100:6D0E1F&height=120&section=footer" width="100%"/>
+
+**Ferdaouss Bouchennou** · <a href="https://www.linkedin.com/in/ferdaouss-bouchennou-917b6b24b/">LinkedIn</a> · <a href="mailto:ferdaousbo12@gmail.com">Email</a> · <a href="https://bouchennou-ferdaouss.vercel.app/">Portfolio</a>
 
 </div>
