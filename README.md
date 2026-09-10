@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=220&section=header&text=Ferdaouss%20Bouchennou&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=QA%20%26%20Test%20Automation%20Engineer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,50:FF69B4,100:FF1493&height=220&section=header&text=Ferdaouss%20Bouchennou&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=QA%20%26%20Test%20Automation%20Engineer&descAlignY=58&descSize=18" width="100%"/>
 
-<a href="https://bouchennou-ferdaouss.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0f3460?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/ferdaouss-bouchennou-917b6b24b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:ferdaousbo12@gmail.com"><img src="https://img.shields.io/badge/Email-16213e?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/ferdaoussBouchennou"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://bouchennou-ferdaouss.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF1493?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/ferdaouss-bouchennou-917b6b24b/"><img src="https://img.shields.io/badge/LinkedIn-FF1493?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:ferdaousbo12@gmail.com"><img src="https://img.shields.io/badge/Email-FF1493?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/ferdaoussBouchennou"><img src="https://img.shields.io/badge/GitHub-FF1493?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
 
@@ -40,9 +40,7 @@ Currently looking for a **PFE internship in QA**, starting **February 2027**.
 </table>
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f3460,100:1a1a2e&height=3&width=100%" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF1493,100:FF69B4&height=3&width=100%" width="100%"/>
 </div>
 
 ## Tech Stack
@@ -51,51 +49,70 @@ Currently looking for a **PFE internship in QA**, starting **February 2027**.
 
 **Languages**
 <br>
-<img src="https://skillicons.dev/icons?i=java,python,c,cs,php&theme=dark" />
+<img src="https://img.shields.io/badge/Java-FF1493?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-FF1493?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C-FF1493?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-FF1493?style=for-the-badge&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-FF1493?style=for-the-badge&logo=php&logoColor=white" />
 
 **Testing & QA**
 <br>
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" />
-<img src="https://img.shields.io/badge/TestNG-red?style=flat-square" />
-<img src="https://img.shields.io/badge/Allure_Report-FF6E00?style=flat-square" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Playwright-FF1493?style=for-the-badge&logo=playwright&logoColor=white" />
+<img src="https://img.shields.io/badge/Selenium-FF1493?style=for-the-badge&logo=selenium&logoColor=white" />
+<img src="https://img.shields.io/badge/TestNG-FF1493?style=for-the-badge&logo=testinglibrary&logoColor=white" />
+<img src="https://img.shields.io/badge/Allure_Report-FF1493?style=for-the-badge&logo=qameta&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF1493?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Jira-FF1493?style=for-the-badge&logo=jira&logoColor=white" />
 
 **Frameworks**
 <br>
-<img src="https://skillicons.dev/icons?i=laravel,spring,react,dotnet,flutter&theme=dark" />
+<img src="https://img.shields.io/badge/Laravel-FF1493?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot-FF1493?style=for-the-badge&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/React-FF1493?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/.NET-FF1493?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/Flutter-FF1493?style=for-the-badge&logo=flutter&logoColor=white" />
 
 **Frontend**
 <br>
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap&theme=dark" />
+<img src="https://img.shields.io/badge/HTML5-FF1493?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-FF1493?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-FF1493?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-FF1493?style=for-the-badge&logo=bootstrap&logoColor=white" />
 
 **Databases**
 <br>
-<img src="https://skillicons.dev/icons?i=mysql,oracle,postgresql&theme=dark" />
+<img src="https://img.shields.io/badge/MySQL-FF1493?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Oracle-FF1493?style=for-the-badge&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-FF1493?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL_Server-FF1493?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 
 **Cloud & DevOps**
 <br>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,githubactions&theme=dark" />
-<img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white" />
-<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-FF1493?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-FF1493?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Terraform-FF1493?style=for-the-badge&logo=terraform&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-FF1493?style=for-the-badge&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/Oracle_Cloud-FF1493?style=for-the-badge&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache_Kafka-FF1493?style=for-the-badge&logo=apachekafka&logoColor=white" />
 
 **Tools**
 <br>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,jira&theme=dark" />
+<img src="https://img.shields.io/badge/Git-FF1493?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-FF1493?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-FF1493?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FF1493?style=for-the-badge&logo=linux&logoColor=white" />
 
 </div>
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f3460,100:1a1a2e&height=3&width=100%" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF1493,100:FF69B4&height=3&width=100%" width="100%"/>
 </div>
 
 ## Experience
 
 <table width="100%">
 <tr>
-<td valign="top" width="18%"><b>Jul – Aug 2026</b></td>
+<td valign="top" width="18%"><b>Jul - Aug 2026</b></td>
 <td valign="top">
 
 **QA & Test Automation Intern** — PortNet (National Single Window of Foreign Trade)
@@ -105,7 +122,7 @@ Designed and maintained two automated testing frameworks for the CCM and CITES m
 </td>
 </tr>
 <tr>
-<td valign="top"><b>Jul – Aug 2025</b></td>
+<td valign="top"><b>Jul - Aug 2025</b></td>
 <td valign="top">
 
 **Full-Stack Development Intern** — Naja7Host
@@ -117,39 +134,35 @@ Built **QA-ScenarioHub**, a full test-lifecycle management platform (projects, s
 </table>
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f3460,100:1a1a2e&height=3&width=100%" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF1493,100:FF69B4&height=3&width=100%" width="100%"/>
 </div>
 
 ## Certifications
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Oracle_Certified_Java_SE_17_Developer-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-<img src="https://img.shields.io/badge/OCI_2025_DevOps_Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-<img src="https://img.shields.io/badge/OCI_2025_Multicloud_Architect-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS_Cloud_Practitioner_Essentials-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/Python_Essentials_1-1572B6?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Oracle_Certified_Java_SE_17_Developer-FF1493?style=for-the-badge&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/OCI_2025_DevOps_Professional-FF1493?style=for-the-badge&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/OCI_2025_Multicloud_Architect-FF1493?style=for-the-badge&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS_Cloud_Practitioner_Essentials-FF1493?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Python_Essentials_1-FF1493?style=for-the-badge&logo=python&logoColor=white" />
 
 </div>
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f3460,100:1a1a2e&height=3&width=100%" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF1493,100:FF69B4&height=3&width=100%" width="100%"/>
 </div>
 
 ## GitHub Activity
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ferdaoussBouchennou&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&ring_color=00d4ff" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferdaoussBouchennou&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ferdaoussBouchennou&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=FF69B4&icon_color=FF69B4&text_color=c9d1d9&ring_color=FF69B4" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferdaoussBouchennou&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF69B4&text_color=c9d1d9" />
 
 <br>
 
-<img width="99%" src="https://github-readme-streak-stats.herokuapp.com/?user=ferdaoussBouchennou&theme=dark&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff" />
+<img width="99%" src="https://github-readme-streak-stats.herokuapp.com/?user=ferdaoussBouchennou&theme=radical&hide_border=true&background=0d1117&stroke=FF69B4&ring=FF69B4&fire=ff6b6b&currStreakLabel=FF69B4" />
 
 <br><br>
 
@@ -175,7 +188,7 @@ Built **QA-ScenarioHub**, a full test-lifecycle management platform (projects, s
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=150&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,50:FF69B4,100:FF1493&height=150&section=footer" width="100%"/>
 
 <sub>Built and maintained by Ferdaouss Bouchennou</sub>
 
