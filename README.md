@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,100:FF69B4&height=200&section=header&text=Ferdaouss%20Bouchennou&fontSize=44&fontColor=ffffff&fontAlignY=38" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=650&lines=QA+%26+Test+Automation+Engineer;Backend+%2B+DevOps+enthusiast;ENSA+Tetouan+-+Computer+Engineering" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=650&lines=Software+Engineering+Student;QA+%26+Backend+Enthusiast;ENSA+Tetouan+-+Computer+Engineering" />
 
 <br><br>
 
@@ -19,11 +19,11 @@
 
 ## About
 
-**Quality-focused engineer turning fragile manual QA into fast, automated pipelines.**
+**Software Engineering student passionate about QA and backend development — building reliable systems and the automated tests that validate them.**
 
-5th-year Computer Engineering student at **ENSA Tétouan**, specialized in **test automation**, **QA engineering**, and **DevOps**. Oracle-certified in Java, Cloud DevOps and Multicloud Architecture, with production experience designing automated test suites end-to-end — from test strategy to CI-ready reporting.
+5th-year Computer Engineering student at **ENSA Tétouan**, interested in **QA engineering**, **test automation**, and **backend development**. Oracle-certified in Java, Cloud DevOps and Multicloud Architecture, with hands-on experience building backend services and automated test suites — from API design to CI-ready test reporting.
 
-Currently looking for a **PFE internship in QA**, starting **February 2027**.
+Currently looking for a **PFE internship in QA or Backend Development**, starting **February 2027**.
 
 <div align="center">
 
